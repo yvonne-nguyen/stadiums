@@ -8,24 +8,24 @@ Stadium Spectacle is a project intending to shed light on the impacts of publicl
 ### Alex Bezirjyan
 Alex is a fourth year Sociology major at UCLA who currently resides in Los Angeles California. After graduation, he plans on pursuing a career in Social Security while simultaneously running his hookah catering business. His interests lie within the realm of conservation as he lives by the biophilia hypothesis code of ethics. In his leisure, he enjoys hiking and fishing in the great outdoors.
 
-<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/ab.png" width="300">
+<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/ab.png" width="300"></img>
 
 
 ### Cameron Jewett
 Cameron is a fourth year undergrad at UCLA majoring in Environmental Science, with minors in Environmental Systems and Society and Digital Humanities. She is passionate about the intersection of accessibility and sustainability in the corporate sustainability and environmental consulting worlds. In her free time she plays ultimate frisbee for the UCLA D1 Women’s team.
 
-<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/cj.png" width="300">
+<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/cj.png" width="300"></img>
 
 ### Yvonne Nguyen
 Yvonne is a fourth year Philosophy major and Digital Humanities minor. After graduation, she plans on pursuing a graduate degree in Human and Computer Interaction. She is interested in all aspects of the human experience, particularly how human beings attempt to find meaning and value within the world.
 
-<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/yn.jpg" width="300">
+<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/yn.jpg" width="300"></img>
 
 
 ### Camille Wong
 Camille is a first year MFA student in the Design Media Arts Department within the School of the Arts and Architecture. They hold B.A.s in Art and Environmental Studies from the University of California, Santa Barbara. They are a research-based artist invested in finding invisible dynamics of power embedded in technologies, social infrastructures, and the built environment. Their approach spans interactive websites, experimental video, sculpture, and writing, to reveal the extensive influence of power obscured within the texture of social spaces. Drawing from disciplines within digital humanities, urbanism, and experimental geography, their work observes how humans produce that space that in turn, shapes them.
 
-<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/cw.png" width="300">
+<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/cw.png" width="300"></img>
 
 
 ## Overview
