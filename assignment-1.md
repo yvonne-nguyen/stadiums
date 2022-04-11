@@ -10,6 +10,7 @@ Alex is a fourth year Sociology major at UCLA who currently resides in Los Angel
 
 ### Cameron Jewett
 Cameron is a fourth year undergrad at UCLA majoring in Environmental Science, with minors in Environmental Systems and Society and Digital Humanities. She is passionate about the intersection of accessibility and sustainability in the corporate sustainability and environmental consulting worlds. In her free time she plays ultimate frisbee for the UCLA D1 Women’s team.
+![cameron](stadiums/cj.png | width=300)
 
 ### Yvonne Nguyen
 Yvonne is a fourth year Philosophy major and Digital Humanities minor. After graduation, she plans on pursuing a graduate degree in Human and Computer Interaction. She is interested in all aspects of the human experience, particularly how human beings attempt to find meaning and value within the world.
