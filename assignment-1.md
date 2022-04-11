@@ -19,7 +19,7 @@ Cameron is a fourth year undergrad at UCLA majoring in Environmental Science, wi
 ### Yvonne Nguyen
 Yvonne is a fourth year Philosophy major and Digital Humanities minor. After graduation, she plans on pursuing a graduate degree in Human and Computer Interaction. She is interested in all aspects of the human experience, particularly how human beings attempt to find meaning and value within the world.
 
-![yvonne](newfolder/yn.jpg)
+![yvonne](newfolder/yn.jpeg)
 
 
 ### Camille Wong
