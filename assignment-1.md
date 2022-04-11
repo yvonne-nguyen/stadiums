@@ -8,25 +8,31 @@ Stadium Spectacle is a project intending to shed light on the impacts of publicl
 ### Alex Bezirjyan
 Alex is a fourth year Sociology major at UCLA who currently resides in Los Angeles California. After graduation, he plans on pursuing a career in Social Security while simultaneously running his hookah catering business. His interests lie within the realm of conservation as he lives by the biophilia hypothesis code of ethics. In his leisure, he enjoys hiking and fishing in the great outdoors.
 
-![alex](https://github.com/yvonne-nguyen/stadiums/blob/main/ab.png)
+<p align="center">
+<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/ab.png" width="300" border="10"/>
+</p>
 
 
 ### Cameron Jewett
 Cameron is a fourth year undergrad at UCLA majoring in Environmental Science, with minors in Environmental Systems and Society and Digital Humanities. She is passionate about the intersection of accessibility and sustainability in the corporate sustainability and environmental consulting worlds. In her free time she plays ultimate frisbee for the UCLA D1 Women’s team.
 
-![cameron](https://github.com/yvonne-nguyen/stadiums/blob/main/cj.png)
+<p align="center">
+<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/cj.png" width="300" border="10"/>
+</p>
 
 ### Yvonne Nguyen
 Yvonne is a fourth year Philosophy major and Digital Humanities minor. After graduation, she plans on pursuing a graduate degree in Human and Computer Interaction. She is interested in all aspects of the human experience, particularly how human beings attempt to find meaning and value within the world.
 
-![yvonne](https://github.com/yvonne-nguyen/stadiums/blob/main/yn.jpg)
-
+<p align="center">
+<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/yn.jpg" width="300" border="10"/>
+</p>
 
 ### Camille Wong
 Camille is a first year MFA student in the Design Media Arts Department within the School of the Arts and Architecture. They hold B.A.s in Art and Environmental Studies from the University of California, Santa Barbara. They are a research-based artist invested in finding invisible dynamics of power embedded in technologies, social infrastructures, and the built environment. Their approach spans interactive websites, experimental video, sculpture, and writing, to reveal the extensive influence of power obscured within the texture of social spaces. Drawing from disciplines within digital humanities, urbanism, and experimental geography, their work observes how humans produce that space that in turn, shapes them.
 
-![cameron](https://github.com/yvonne-nguyen/stadiums/blob/main/cw.png)
-
+<p align="center">
+<img src="https://github.com/yvonne-nguyen/stadiums/blob/main/cw.png" width="300" border="10"/>
+</p>
 
 ## Overview
 This project opens an investigation across publicly-funded stadiums in the United States under the four major professional sport leagues––the NBA, NFL, MLB, and NHL. With case studies on three major US stadiums: the Safeco/Tmobile Arena in Seattle, Dodger Stadium in Los Angeles, the San Jose SAP Center, and the Oakland-Alameda County Coliseum, this project will follow the historical neighborhoods these stadiums were built in to chart their impact on the surrounding environment. It will ask not only how stadiums affect the demographics of the neighborhood––including race, property value, and median income, but also interrogate the sites of their construction. The purpose of this project is to analyze the neighborhood in which a stadium is built and the economic implications of public subsidies on professional sport facilities. Our method involves comparing Census data (U.S. Census Bureau) and The Home Owners’ Loan Corporation Redlining Grade Map. This detailed analysis will illustrate the long-term effects of housing segregation in the United States and critically examine the redirection of taxpayer-backed bonds on sports stadiums. 
