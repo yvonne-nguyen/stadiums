@@ -21,3 +21,5 @@
 1. Navigation Bar with clickable links that takes the user to different pages. 
 2. Each staidum will have its own page. 
 3. Filtering option that lets the user different layers of the map. "Census layer" refers to which specfic dataset is used to make that layer (e.g., housing costs or yearly income).
+4. The filtering button changes color when the user hovers over it and transforms into a darker opacity of the hover color once the user clicks on it. 
+5. An "About Us", "Data", and "Sources" page. 
